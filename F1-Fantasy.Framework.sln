@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1.Fantasy.DataTransferObjects", "F1-Fantasy.DataTransferObjects\F1.Fantasy.DataTransferObjects.csproj", "{E0D67C15-1E66-4932-88A1-552AECDBCABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1-Fantasy.Queries", "F1-Fantasy.Queries\F1-Fantasy.Queries.csproj", "{DC259065-8E70-4FDA-A628-6F19EC8CBAAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F1-Fantasy.Queries.Tests", "F1-Fantasy.Queries.Tests\F1-Fantasy.Queries.Tests.csproj", "{A1DC2DD5-39C3-4537-98DE-41866792C318}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D67C15-1E66-4932-88A1-552AECDBCABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D67C15-1E66-4932-88A1-552AECDBCABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D67C15-1E66-4932-88A1-552AECDBCABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D67C15-1E66-4932-88A1-552AECDBCABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC259065-8E70-4FDA-A628-6F19EC8CBAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC259065-8E70-4FDA-A628-6F19EC8CBAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC259065-8E70-4FDA-A628-6F19EC8CBAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC259065-8E70-4FDA-A628-6F19EC8CBAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DC2DD5-39C3-4537-98DE-41866792C318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DC2DD5-39C3-4537-98DE-41866792C318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DC2DD5-39C3-4537-98DE-41866792C318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DC2DD5-39C3-4537-98DE-41866792C318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
